@@ -1,1 +1,1 @@
-A project to develop a platform about craftsman search enginee
+A project to develop a platform about craftsman search enginee. This platform will be destinated for Romania's market.

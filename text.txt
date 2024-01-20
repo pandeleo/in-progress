@@ -1,2 +1,2 @@
 Hello world!
-This will be a craftsman search engine for Romania.
+This will be a craftsman search engine for romanian market.
